@@ -2,3 +2,6 @@ Este Trabalho de Conclusão de Curso (TCC), desenvolvido no âmbito da Licenciat
 
 👉 Acesse aqui:
 https://joaquimgomes8.github.io/IFTM_TCC_transcricao_de_voz_para_surdos/
+
+<img width="1292" height="810" alt="image" src="https://github.com/user-attachments/assets/c9ee203a-24c2-45f6-aece-91f63d68cca5" />
+
